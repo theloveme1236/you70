@@ -8,4 +8,4 @@ os.system('sudo apt update')
 os.system('sudo apt install nano')
 os.system('sudo apt-get install tmate -y')
 
-os.system('tmate -k tmk-{} -n {}'.format(email,tmate)
+os.system('tmate -k tmk-{} -n {}'.format(email,tmate))
